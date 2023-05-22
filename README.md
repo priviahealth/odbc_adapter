@@ -1,7 +1,8 @@
 # ODBCAdapter [![License][license-badge]][license-link]
 
-| ActiveRecord | Gem Version | Branch | Status |
-|--------------|-------------|--------|--------|
+| ActiveRecord | Gem Version | Branch                 | Status                                         |
+|--------------|-------------|------------------------|------------------------------------------------|
+| `7.x`        | `~> '7.0'`  | [`master`][7.x-branch] | [![Build Status][7.x-build-badge]][build-link] |
 | `5.x`        | `~> '5.0'`  | [`master`][5.x-branch] | [![Build Status][5.x-build-badge]][build-link] |
 | `4.x`        | `~> '4.0'`  | [`4.2.x`][4.x-branch]  | [![Build Status][4.x-build-badge]][build-link] |
 
@@ -89,6 +90,7 @@ A lot of this work is based on [OpenLink's ActiveRecord adapter][openlink-active
 [4.x-build-badge]: https://travis-ci.org/localytics/odbc_adapter.svg?branch=4.2.x
 [5.x-branch]: https://github.com/localytics/odbc_adapter/tree/master
 [5.x-build-badge]: https://travis-ci.org/localytics/odbc_adapter.svg?branch=master
+[6.x-branch]: https://github.com/instacart/odbc_adapter/tree/master
 [build-link]: https://travis-ci.org/localytics/odbc_adapter/branches
 [github-repo]: https://github.com/localytics/odbc_adapter
 [license-badge]: https://img.shields.io/github/license/localytics/odbc_adapter.svg
