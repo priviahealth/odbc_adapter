@@ -5,7 +5,7 @@ require 'odbc_adapter/version'
 Gem::Specification.new do |spec|
   spec.name          = 'odbc_adapter'
   spec.version       = ODBCAdapter::VERSION
-  spec.authors       = %w[Instacart Localytics]
+  spec.authors       = %w[PriviaHealth Instacart Localytics]
   spec.email         = ['oss@localytics.com']
 
   spec.summary       = 'An ActiveRecord ODBC adapter'
